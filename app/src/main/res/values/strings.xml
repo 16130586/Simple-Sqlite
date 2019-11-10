@@ -1,0 +1,29 @@
+<resources>
+    <string name="text_add">Add</string>
+    <string name="text_finish">Finish</string>
+    <string name="app_name">SQLiteExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_create_schema">Create Database</string>
+    <string name="text_delete_schema">Delete Database</string>
+    <string name="text_create_table">Create Table</string>
+    <string name="text_create_table_choices">Select target DB</string>
+    <string name="input_create_table_name">Table name</string>
+    <string name="text_create_column_type_choices">Column type</string>
+    <string name="text_create_column_name">Column name</string>
+    <string name="text_delete_table">Delete Table</string>
+    <string name="text_insert_row_to_table">Insert Row to tbllop</string>
+    <string name="text_delete_row_from_table">Delete Row From tbllop</string>
+    <string name="text_update_row_from_table">Update Row to tbllop</string>
+    <string name="text_select_all_from_table">Querying data tbllop</string>
+    <string name="text_insert_student">Insert Student</string>
+    <string name="text_select_student_by">Querying data tbllop</string>
+    <string name="hint_input_student_class_id">Type Table to delete</string>
+    <string name="hint_input_table_name">Type malop to reference</string>
+    <string name="title_activity_create_table">CreateTable</string>
+    <string name="title_activity_insert_row_to_table">InsertRowToTable</string>
+    <string name="title_activity_delete_row_from_table">DeleteRowFromTable</string>
+    <string name="title_activity_update_row_from_table">UpdateRowFromTable</string>
+    <string name="title_activity_querying_by_simple_filter">QueryingBySimpleFilter</string>
+    <string name="title_activity_delete_table">DeleteTable</string>
+    <string name="title_activity_insert_row_to_table_student">InsertRowToTableStudent</string>
+</resources>
